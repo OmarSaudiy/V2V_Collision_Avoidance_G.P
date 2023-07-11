@@ -17,8 +17,8 @@ This GitHub repository contains the source code and documentation for the V2V (V
 - User-friendly interface to display received data and alerts.  </p>
 
 # Technologies Used:
-Valeo's V2V technology.
-C programming language.
-Embedded Linux.
-Yocto Project.
-Interfacing with Ultrasonic and many other sensors.
+- V2V technology.
+- C programming language.
+- Embedded Linux.
+- Yocto Project.
+- Interfacing with Ultrasonic and many other sensors.
