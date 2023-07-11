@@ -10,7 +10,7 @@ This GitHub repository contains the source code and documentation for the V2V (V
   - Forward Collision Warning (FCW).  </p>
   - Blind Spot Warning (BSW).  </p>
   - Don't Pass Warning (DPW).  </p>
-- Intersection Movement Assist (IMA).  </p>
+  - Intersection Movement Assist (IMA).  </p>
 - Integration with Ultrasonic and other sensors to ensure accurate detection and warning.  </p>
 - Embedded Linux-based system utilizing the Yocto Project for optimized performance.  </p>
 - Custom distribution and image created for seamless integration of modules and applications.  </p>
