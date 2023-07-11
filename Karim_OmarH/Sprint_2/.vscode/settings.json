@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hcsr04.h": "c",
+        "std_types.h": "c",
+        "eebl_fcw.h": "c"
+    }
+}
